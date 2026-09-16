@@ -3,7 +3,7 @@
 Conteúdo estático: `index.html` (página de entrada), `app.html` (aplicativo), `deck.html` (apresentação) e seus recursos.
 
 ## Publicar no GitHub Pages
-1. Envie TODOS os arquivos desta pasta para a raiz do repositório `fabriciomartini/passagem` (branch `main`), inclusive `.nojekyll` e a pasta `_ds`.
+1. Envie TODOS os arquivos desta pasta para a raiz do repositório `fabriciomartini/passagem` (branch `main`), inclusive as pastas `ds`, `assets` (com os 3 vídeos .webm) e `screenshots`.
 2. No GitHub: Settings → Pages → Source: *Deploy from a branch* → Branch `main` / `/(root)` → Save.
 3. Em ~1 min o site estará em https://fabriciomartini.github.io/passagem/
 

@@ -10,7 +10,7 @@
 // run twice. In a consuming project, point base at the bound _ds/<folder>
 // tree relative to this page — one line to edit.
 (() => {
-  const base = '_ds/industry-af543ac3-a64e-475b-b107-703e133d9e88';
+  const base = 'ds/industry';
   if (window['__dsBundle:' + base]) return;
   window['__dsBundle:' + base] = true;
   const s = document.createElement('script');
